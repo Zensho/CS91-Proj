@@ -33,3 +33,9 @@ For the recreation of the EEGEyeNet benchmark results run main.py.
 ```
 python main.py
 ```
+### Transformers-related code
+
+To see the transformers-related code go to transformersEEG.py
+
+### Config for extracted raw data
+
